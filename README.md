@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **Maybe Im Funny 😌**
 
----
-
 <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://instagram.com/panggilakuobet" target="blank">
