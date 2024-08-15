@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **NextJs & Laravel 10**
 
-- 👨‍💻 All of my projects [https://robertarsyah.github.io/NextJs-MyPortfolio/](https://robertarsyah.github.io/NextJs-MyPortfolio/)
-
 - 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **fukaruuu69@gmail.com**
